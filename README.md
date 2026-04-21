@@ -197,9 +197,9 @@ Base URL: `http://localhost:5252/api`
 **Deepyaman Mondal**
 
 [![Email](https://img.shields.io/badge/Email-deepyamanmondal7%40gmail.com-D14836?logo=gmail)](mailto:deepyamanmondal7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-deepyamanmondal-0A66C2?logo=linkedin)](https://www.linkedin.com/in/deepyamanmondal)
-[![GitHub](https://img.shields.io/badge/GitHub-deepyamanmondal-181717?logo=github)](https://github.com/deepyamanmondal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4CAF50?logo=vercel)](https://deepyamanmondal.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-deepyamanmondal-0A66C2?logo=linkedin)](https://www.linkedin.com/in/deepyaman-mondal-8592a3265)
+[![GitHub](https://img.shields.io/badge/GitHub-deepyamanmondal-181717?logo=github)](https://github.com/DevRony04)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4CAF50?logo=vercel)](https://rony-portfolio-site.vercel.app)
 
 ---
 
@@ -208,5 +208,3 @@ Base URL: `http://localhost:5252/api`
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-> ⭐ If you found this project helpful, consider giving it a star — it helps others discover it!
